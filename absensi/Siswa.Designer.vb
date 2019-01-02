@@ -40,6 +40,7 @@ Partial Class Siswa
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.ComboBox2 = New System.Windows.Forms.ComboBox()
+        Me.Button4 = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -197,11 +198,21 @@ Partial Class Siswa
         Me.ComboBox2.Size = New System.Drawing.Size(129, 21)
         Me.ComboBox2.TabIndex = 23
         '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(243, 141)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(75, 23)
+        Me.Button4.TabIndex = 24
+        Me.Button4.Text = "Delete"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'Siswa
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(446, 325)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.ComboBox2)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -246,4 +257,5 @@ Partial Class Siswa
     Friend WithEvents Button2 As Button
     Friend WithEvents Button3 As Button
     Friend WithEvents ComboBox2 As ComboBox
+    Friend WithEvents Button4 As Button
 End Class

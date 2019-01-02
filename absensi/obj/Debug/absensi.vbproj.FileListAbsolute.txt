@@ -1,0 +1,32 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.Guru.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\bin\Debug\absensi.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\bin\Debug\absensi.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\bin\Debug\absensi.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\bin\Debug\absensi.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\absensi\absensi\obj\Debug\absensi.absen.resources
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\bin\Debug\absensi.exe.config
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.exe
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.xml
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.pdb
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\bin\Debug\absensi.exe
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\bin\Debug\absensi.pdb
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\bin\Debug\absensi.xml
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\bin\Debug\MySql.Data.dll
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\bin\Debug\Google.Protobuf.dll
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\bin\Debug\MySql.Data.xml
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.vbprojResolveAssemblyReference.cache
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.absen.resources
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.Guru.resources
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.Kelas.resources
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.Resources.resources
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.Siswa.resources
+D:\DOKUMEN\KULIAH\absensi\VBabsen\absensi\obj\Debug\absensi.vbproj.GenerateResource.Cache
